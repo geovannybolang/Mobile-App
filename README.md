@@ -3,6 +3,6 @@
 Group :
 - Geovanny Hezkie Bolang (Head)
 - Mawar Sharon Tumewu
-- Raineer Christian
+- Rainer Cristian
 - Yanes Makawekes
 - Jeri Leri Kanter
